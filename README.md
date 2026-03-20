@@ -120,4 +120,4 @@ Enter your choice:
 
 **Abu-Bakar Chaudhary**  
 Computer Engineering · NUST · Class of 2027  
-[GitHub](https://github.com/abu-bakarchaudhary) · [LinkedIn](https://linkedin.com/in/abu-bakarchaudhary)
+[GitHub](https://github.com/abu-bakarchaudhary) · [LinkedIn](https://linkedin.com/in/abubakar-chaudhary-ce45)
